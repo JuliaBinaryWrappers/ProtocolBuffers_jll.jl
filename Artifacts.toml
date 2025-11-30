@@ -1,0 +1,174 @@
+[[ProtocolBuffers]]
+arch = "aarch64"
+git-tree-sha1 = "f6bd75725998d4c60c56b579495e280fe269a898"
+os = "macos"
+
+    [[ProtocolBuffers.download]]
+    sha256 = "f92a325ba387c7bda01eb63749cc342a149e6bdc46dfa8762ec81fc9e1858b45"
+    url = "https://github.com/JuliaBinaryWrappers/ProtocolBuffers_jll.jl/releases/download/ProtocolBuffers-v3.16.0+0/ProtocolBuffers.v3.16.0.aarch64-apple-darwin.tar.gz"
+[[ProtocolBuffers]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "870d1b100c91ed03d2a1fb416ab7584808bb22e3"
+libc = "glibc"
+os = "linux"
+
+    [[ProtocolBuffers.download]]
+    sha256 = "bf60d21d50189dc5860d363750352731461af53c272fbc0f3323e4849cf2ba51"
+    url = "https://github.com/JuliaBinaryWrappers/ProtocolBuffers_jll.jl/releases/download/ProtocolBuffers-v3.16.0+0/ProtocolBuffers.v3.16.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[ProtocolBuffers]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "129b7dc6bf8cc663005431e6c8276d90c1179dd5"
+libc = "musl"
+os = "linux"
+
+    [[ProtocolBuffers.download]]
+    sha256 = "24d9624e9e2960631f83e368c506674d045daf4e2fb481207388c3f4a24d232f"
+    url = "https://github.com/JuliaBinaryWrappers/ProtocolBuffers_jll.jl/releases/download/ProtocolBuffers-v3.16.0+0/ProtocolBuffers.v3.16.0.aarch64-linux-musl-cxx11.tar.gz"
+[[ProtocolBuffers]]
+arch = "aarch64"
+git-tree-sha1 = "b5d3c7b1ae8d3871c734aa4de7cb168b4192eea9"
+os = "freebsd"
+
+    [[ProtocolBuffers.download]]
+    sha256 = "bf2d7b911f848dab56e5ae044bbf2e13d4c9a3a850e8642d2fa36448855eec52"
+    url = "https://github.com/JuliaBinaryWrappers/ProtocolBuffers_jll.jl/releases/download/ProtocolBuffers-v3.16.0+0/ProtocolBuffers.v3.16.0.aarch64-unknown-freebsd.tar.gz"
+[[ProtocolBuffers]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "45d6565900d1683df2c7f602421e5e15c2ab5ddd"
+libc = "glibc"
+os = "linux"
+
+    [[ProtocolBuffers.download]]
+    sha256 = "2cf0f7b4c9ff05b1dc8950d13aef129fed95485494736c6dfd12a78042d096ab"
+    url = "https://github.com/JuliaBinaryWrappers/ProtocolBuffers_jll.jl/releases/download/ProtocolBuffers-v3.16.0+0/ProtocolBuffers.v3.16.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[ProtocolBuffers]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3ef3c25c5c2257a4ef555f13210292f74834b820"
+libc = "musl"
+os = "linux"
+
+    [[ProtocolBuffers.download]]
+    sha256 = "8800446ecd58eaf2b455331a01828be470dfd8c842bb490d3012a969ac379fda"
+    url = "https://github.com/JuliaBinaryWrappers/ProtocolBuffers_jll.jl/releases/download/ProtocolBuffers-v3.16.0+0/ProtocolBuffers.v3.16.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[ProtocolBuffers]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0da0456058558c3b7ea05d0d53301162fceec465"
+libc = "glibc"
+os = "linux"
+
+    [[ProtocolBuffers.download]]
+    sha256 = "a1d03c4e6119b4aef0184fa247287897da3b7503d69bd8d498dc7ebd1a68434f"
+    url = "https://github.com/JuliaBinaryWrappers/ProtocolBuffers_jll.jl/releases/download/ProtocolBuffers-v3.16.0+0/ProtocolBuffers.v3.16.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[ProtocolBuffers]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e12192c9fbdb848fb2a1cd340f9e8a06fde7db01"
+libc = "musl"
+os = "linux"
+
+    [[ProtocolBuffers.download]]
+    sha256 = "53b681f0efef0c7be917b22e6120e8b34e4ed500528f215b354d616bba4609d2"
+    url = "https://github.com/JuliaBinaryWrappers/ProtocolBuffers_jll.jl/releases/download/ProtocolBuffers-v3.16.0+0/ProtocolBuffers.v3.16.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[ProtocolBuffers]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b1856413e9da9c4298218302f525c8694ba07517"
+libc = "glibc"
+os = "linux"
+
+    [[ProtocolBuffers.download]]
+    sha256 = "df7cd155a5379e6b954620da638555d2c9835ddeb2f6fa484262a3003547c8fa"
+    url = "https://github.com/JuliaBinaryWrappers/ProtocolBuffers_jll.jl/releases/download/ProtocolBuffers-v3.16.0+0/ProtocolBuffers.v3.16.0.i686-linux-gnu-cxx11.tar.gz"
+[[ProtocolBuffers]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "61e5477024ed3965bdadaf6fd0a63678f155fe63"
+libc = "musl"
+os = "linux"
+
+    [[ProtocolBuffers.download]]
+    sha256 = "6db0683c9a09fb87c97e181fb48422aedffb457c19ba58a669f1d5569152d644"
+    url = "https://github.com/JuliaBinaryWrappers/ProtocolBuffers_jll.jl/releases/download/ProtocolBuffers-v3.16.0+0/ProtocolBuffers.v3.16.0.i686-linux-musl-cxx11.tar.gz"
+[[ProtocolBuffers]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ba7ca23dda8eb68f4aa792dacdfcf71c50b499bc"
+os = "windows"
+
+    [[ProtocolBuffers.download]]
+    sha256 = "408113e341f6c7014a01937126d49888e2521e78c6d8a50af1f84158a327c40d"
+    url = "https://github.com/JuliaBinaryWrappers/ProtocolBuffers_jll.jl/releases/download/ProtocolBuffers-v3.16.0+0/ProtocolBuffers.v3.16.0.i686-w64-mingw32-cxx11.tar.gz"
+[[ProtocolBuffers]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e2ef64b1fdec7beec00e581b60327921ffeb94a9"
+libc = "glibc"
+os = "linux"
+
+    [[ProtocolBuffers.download]]
+    sha256 = "5ef2a060a754b5f033bd0740070a8d83c2186cdf02899be9323b7a2a2edcc10f"
+    url = "https://github.com/JuliaBinaryWrappers/ProtocolBuffers_jll.jl/releases/download/ProtocolBuffers-v3.16.0+0/ProtocolBuffers.v3.16.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[ProtocolBuffers]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3a86c744ca56308d561968f72c105c3109ec3ba2"
+libc = "glibc"
+os = "linux"
+
+    [[ProtocolBuffers.download]]
+    sha256 = "dd38a38a1ebb30d9030b8834f5c1943da0c298c2f387eb33b616995723e5b278"
+    url = "https://github.com/JuliaBinaryWrappers/ProtocolBuffers_jll.jl/releases/download/ProtocolBuffers-v3.16.0+0/ProtocolBuffers.v3.16.0.riscv64-linux-gnu-cxx11.tar.gz"
+[[ProtocolBuffers]]
+arch = "x86_64"
+git-tree-sha1 = "f21d9a72acbf7b7a20f8e5e9fb12e03c00cac73d"
+os = "macos"
+
+    [[ProtocolBuffers.download]]
+    sha256 = "7b42a5a05167e5fb0a0fc823b0f9c96e57e848ad201a2fb8e95f524b56f04e64"
+    url = "https://github.com/JuliaBinaryWrappers/ProtocolBuffers_jll.jl/releases/download/ProtocolBuffers-v3.16.0+0/ProtocolBuffers.v3.16.0.x86_64-apple-darwin.tar.gz"
+[[ProtocolBuffers]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7103d506728e516de4432d9a41e2e2edabc7dd4e"
+libc = "glibc"
+os = "linux"
+
+    [[ProtocolBuffers.download]]
+    sha256 = "351925b459053484a13f1b75e1b410b3482209dc0c478f432a15c9e0ba214548"
+    url = "https://github.com/JuliaBinaryWrappers/ProtocolBuffers_jll.jl/releases/download/ProtocolBuffers-v3.16.0+0/ProtocolBuffers.v3.16.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[ProtocolBuffers]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6d45a56894a5532a59e84c93b87d0f83d18aa59d"
+libc = "musl"
+os = "linux"
+
+    [[ProtocolBuffers.download]]
+    sha256 = "a373c87858349ee9c5310e819d3824d95ddbfcfb4b68ae1b318da55e00b716c3"
+    url = "https://github.com/JuliaBinaryWrappers/ProtocolBuffers_jll.jl/releases/download/ProtocolBuffers-v3.16.0+0/ProtocolBuffers.v3.16.0.x86_64-linux-musl-cxx11.tar.gz"
+[[ProtocolBuffers]]
+arch = "x86_64"
+git-tree-sha1 = "2b461bb9bee21ef4b6eb8085ccc1eea39c7b16b6"
+os = "freebsd"
+
+    [[ProtocolBuffers.download]]
+    sha256 = "b6be3b1bbe3d8af7237742c57cca71f7c6d77e54a6f72ea299b972efba20caa6"
+    url = "https://github.com/JuliaBinaryWrappers/ProtocolBuffers_jll.jl/releases/download/ProtocolBuffers-v3.16.0+0/ProtocolBuffers.v3.16.0.x86_64-unknown-freebsd.tar.gz"
+[[ProtocolBuffers]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4bce1d267a6ce43eb42970542513f41915d08a6b"
+os = "windows"
+
+    [[ProtocolBuffers.download]]
+    sha256 = "f3cb0a573e1a22c6bc8e5fe5c71f88114d71f096cfe6cd244c24ce85f39080fc"
+    url = "https://github.com/JuliaBinaryWrappers/ProtocolBuffers_jll.jl/releases/download/ProtocolBuffers-v3.16.0+0/ProtocolBuffers.v3.16.0.x86_64-w64-mingw32-cxx11.tar.gz"
