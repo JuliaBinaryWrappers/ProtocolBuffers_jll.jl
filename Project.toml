@@ -1,6 +1,6 @@
 name = "ProtocolBuffers_jll"
 uuid = "077c9ec6-821a-5206-80b9-88f6560c8ee9"
-version = "3.16.0+0"
+version = "3.16.1+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
